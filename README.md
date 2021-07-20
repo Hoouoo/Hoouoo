@@ -1,7 +1,13 @@
 <h1 align = "center"> Hi I'm Park Sung Ho 👋</h1>
-<h2 align = "center"> Junior Developers in Republic of Korea</h2> 
+<h3 align = "center"> Junior Developers in Republic of Korea</h3>
+<br>
 ---
-
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+</h5>
 <!--
 **Hoouoo/Hoouoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
