@@ -1,7 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 <h1 align = "center"> Hi I'm Park Sung Ho 👋</h1>
 <h3 align = "center"> Junior Developers in Republic of Korea</h3>
-<br>
----
+<hr>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
