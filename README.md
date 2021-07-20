@@ -3,8 +3,8 @@
     <img src = "https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Hello%2C+There+%F0%9F%91%8B;This+is+Park+Sung+Ho">
   </a>
 </h1>
-<h1 align = "center"> Hi I'm Park Sung Ho 👋</h1>
-<h3 align = "center"> Junior Developers in Republic of Korea</h3>
+<h5 align = "center"> Hi I'm Park Sung Ho 👋</h5>
+<h5 align = "center"> Junior Developers in Republic of Korea</h5>
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
