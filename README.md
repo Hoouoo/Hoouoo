@@ -1,5 +1,6 @@
 <h1 align = "center"> Hi I'm Park Sung Ho 👋</h1>
 <h2 align = "center"> Junior Developers in Republic of Korea</h2> 
+---
 
 <!--
 **Hoouoo/Hoouoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
