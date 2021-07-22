@@ -5,7 +5,7 @@
 </h1>
 <h5 align = "center"> Hi I'm Park Sung Ho 👋</h5>
 <h5 align = "center"> Junior Developers in Republic of Korea</h5>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hoouoo&color=green/> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hoouoo&color=green/ alt ="HOOUOO"> 
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
