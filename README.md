@@ -12,18 +12,11 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
