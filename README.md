@@ -8,8 +8,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
 <hr>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
