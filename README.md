@@ -9,9 +9,8 @@
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
-<img src="https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white"/></a>
 <!--
 **Hoouoo/Hoouoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
