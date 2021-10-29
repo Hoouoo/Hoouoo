@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 
 
 <h2 align="center">🔥 Studying 🔥</h2>  
