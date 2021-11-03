@@ -26,8 +26,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 
 <h2 align="center">📚Experience</h2>  
-|Type|Date|Contents|Organization|
-|Student|2017.03 ~ 2023.2|Department of Computer Software Engineering|Dongeui University|
+<!--|Type|Date|Contents|Organization|
+|Student|2017.03 ~ 2023.2|Department of Computer Software Engineering|Dongeui University| -->
 <!--h2 align="center"> Todo💦 </h2>  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /-->
 
