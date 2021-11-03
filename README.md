@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
 <hr>
 
-<h2 align="">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
+<h2 align="center">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)
@@ -25,7 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 
-<h2 align="center">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
+<h2 align="center">📚Experience</h2>  
 
 <!--h2 align="center"> Todo💦 </h2>  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /-->
