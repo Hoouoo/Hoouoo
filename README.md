@@ -45,8 +45,8 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB?style=flat-square&logo=MySQL&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-BD1C2B?style=flat-square&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-BD1C2B?style=flat-square&logo=Prometheus&logoColor=white)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
