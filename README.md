@@ -33,7 +33,7 @@
 </div>
 
 
-<h2 align="center">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
+<h2 align="center">✔ Languages & Frameworks & Tools & Abilities & Study ✔</h2>  
 
 ### Language  
 ![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)
