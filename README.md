@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src = "https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Hello%2C+There+%F0%9F%91%8B;I'm+Park+Sungho">
+    <img src = "https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=I'm+Park+Sungho+%F0%9F%91%8B;">
   </a>
 </h1>
+<h3 align ="center"> Towards the top </h3>
 <h5 align = "center"> Hi I'm Park Sung Ho 👋</h5>
 <h5 align = "center"> Junior Developers in Republic of Korea</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
@@ -35,10 +36,14 @@
 
 <h2 align="center">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
 
+<h3> Language </h3>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+
+<h3> Language </h3>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white)
