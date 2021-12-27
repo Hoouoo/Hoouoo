@@ -1,10 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=&fontSize=90)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src = "https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=I'm+Park+Sungho+%F0%9F%91%8B;">
   </a>
 </h1>
 <h3 align ="center"> Towards the top </h3>
-<h5 align = "center"> Junior Developers in Republic of Korea</h5>
+<h4 align = "center"> Junior Developers in Republic of Korea</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
 <hr>
 
