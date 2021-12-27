@@ -35,26 +35,24 @@
 <h2 align="center">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
 
 <h3> Language </h3>  
-![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 
 <h3> Backend</h3>
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white)  
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)  
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)  
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)  
-![Slack](https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)  
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 
 
 
