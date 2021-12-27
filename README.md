@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PARK%20SUNO%20HO&fontSize=90&animation=fadeIn&fontColor=#c9c9c9&fontColor=d6ace6)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PARK%20SUNO%20HO&fontSize=90&animation=fadeIn&fontColor=#c9c9c9&fontColor=c9d1d9)  
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src = "https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=I'm+Park+Sungho+%F0%9F%91%8B;">
