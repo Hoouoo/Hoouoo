@@ -23,6 +23,16 @@
 | Research Activities |       2021. 12.01       | 특허 출원(SYSTEM AND METHOD FOR MEASUREMENT OF<br/>NUTRIENT INTAKE) | Univ LAB.Software Engineering                                |
 
 
+## 📈 Analysis
+<div align=center>
+ <div>
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hoouoo)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoouoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</div>
+
+
 <h2 align="center">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
