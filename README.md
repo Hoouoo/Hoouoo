@@ -34,7 +34,7 @@
 
 <h2 align="center">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
 
-<h3> Language </h3>  
+### Language  
 ![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
