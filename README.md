@@ -4,7 +4,6 @@
   </a>
 </h1>
 <h3 align ="center"> Towards the top </h3>
-<h5 align = "center"> Hi I'm Park Sung Ho 👋</h5>
 <h5 align = "center"> Junior Developers in Republic of Korea</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
 <hr>
@@ -14,7 +13,6 @@
 |        Type         |          Date           |                           Contents                           | Organizatio                                                  |
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
 | External Activities | 2019. 09 ~</br>2020. 05 |  DND 2기: PROJECT : 번개보다 빠른 중고매칭 서비스 - 장마당   | [DND](https://dnd.ac/)                                       |
-| Research Activities | 2020. 12 ~</br>2021. 08 | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의제조공정 최적화 기술개발 | Univ LAB.Software Engineering                                |
 | Research Activities |       2021. 02.17       | 특허 출원(BODY TEMPERATURE MONITORING SYSTEM AND<br/>METHOD) | Univ LAB.Software Engineering                                |
 | Research Activities |       2021. 02.17       | 특허 출원(FACIAL RECOGNITION<br/>THERMOMETER AND METHOD FOR MEASURING BODY TEMPERATURE USING THE SAME) | Univ LAB.Software Engineering                                |
 | Research Activities |       2021. 02.17       |  특허 출원(AGRICULTURAL AUTOMATION SYSTEM USING<br/>DRONE)   | Univ LAB.Software Engineering                                |
@@ -37,17 +35,20 @@
 <h2 align="center">✔ Languages & Frameworks & Tools & Abilities ✔</h2>  
 
 <h3> Language </h3>
+![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 
-<h3> Language </h3>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+<h3> Backend</h3>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
