@@ -5,8 +5,8 @@
   </a>
 </h1>
 <h3 align ="center"> Towards the top </h3>
-<h5 align ="center"> 혼자가 아닌 협업 중심으로, 일화성 코드가 아닌 모듈화를 중심으로, 현재 기술을 딛고 더 나아가 노력하는 백엔드 엔지니어가 되겠습니다.  
-  사회에 이바지 할 수있는 서비스를 제공하는 것을 목표로 하고 있습니다.</h5>
+<h5 align ="center"> 혼자가 아닌 협업 중심으로, 일화성 코드가 아닌 모듈화를 중심으로</br> 현재 기술을 딛고 더 나아가 노력하는 백엔드 엔지니어가 되겠습니다. </h5>
+<h5 align ="center"> 사회에 이바지 할 수있는 서비스를 제공하는 것을 목표로 하고 있습니다.</h5>
 <h4 align = "center"> Junior Developers in Republic of Korea</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
 <hr>
