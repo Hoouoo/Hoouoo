@@ -21,7 +21,7 @@
 | Research Activities |       2021.02.17.    |  특허 출원(AGRICULTURAL AUTOMATION SYSTEM USING<br/>DRONE)   | Univ LAB.Software Engineering                                |
 | External Activities | 2021.06. ~</br>2021.11. | [국내 최대 규모 2021 공개 SW 공모전 동상(기원후원상)<br />큐브리드  상 수상](https://github.com/Hoouoo/Everyone-Tayo) | [정보통신산업진흥원(OSS)](https://www.oss.kr/dev_competition_activities/show/1410e6c2-8939-4806-8e81-16058edba58b?page=2) |
 | Internal Activities |        2021.09. ~</br>2021.12.| [PROJECT::ROS 기반 도로주행시험장 자율주행](https://github.com/Hoouoo/ROS)| Dongeui University |
-| External Activities |        2021.11.         | 부산 IT 융합부품연구소 클라우드 테스팅 경진대회 우수상 수상  | [부산 IT융합부품연구소(DEU)](https://www.cidi.re.kr/bbs/board.php?bo_table=notice&wr_id=72) |
+| External Activities |        2021.11.         | 부산 IT 융합부품연구소 클라우드 테스팅 경진대회 우수상 수상  | [부산 IT융합부품연구소](https://www.cidi.re.kr/bbs/board.php?bo_table=notice&wr_id=72) |
 | Research Activities | 2021.01. ~</br>2021.12. | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의제조공정 최적화 기술개발 - 스마트 팩토리 모니터링 시스템 | Univ LAB.Software Engineering                                |
 | Research Activities |       2021.12.01.       | 특허 출원(SYSTEM AND METHOD FOR MEASUREMENT OF<br/>NUTRIENT INTAKE) | Univ LAB.Software Engineering                                |
 | Intership Activities |       2022.01.01. ~</br>2022.02.28.       | 스마트 IoT 조명 제어 및 센서 데이터 수집/배포 연구 보조  | 한국전자통신연구원(ETRI)                         |
