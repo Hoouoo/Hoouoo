@@ -24,7 +24,7 @@
 | External Activities |        2021.11.         | 부산 IT 융합부품연구소 클라우드 테스팅 경진대회 우수상 수상  | [부산 IT융합부품연구소](https://www.cidi.re.kr/bbs/board.php?bo_table=notice&wr_id=72) |
 | Research Activities | 2021.01. ~</br>2021.12. | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의제조공정 최적화 기술개발 - 스마트 팩토리 모니터링 시스템 | Univ LAB.Software Engineering                                |
 | Research Activities |       2021.12.01.       | 특허 출원(SYSTEM AND METHOD FOR MEASUREMENT OF<br/>NUTRIENT INTAKE) | Univ LAB.Software Engineering                                |
-| internship Activities |       2022.01.01. ~</br>2022.02.28.       | 스마트 IoT 조명 제어 및 센서 데이터 수집/배포 연구 보조  | 한국전자통신연구원(ETRI)                         |
+| Internship Activities |       2022.01.01. ~</br>2022.02.28.       | 스마트 IoT 조명 제어 및 센서 데이터 수집/배포 연구 보조  | 한국전자통신연구원(ETRI)                         |
 
 
 ## 📈 Analysis
