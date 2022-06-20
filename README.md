@@ -25,7 +25,7 @@
 | Research Activities | 2021.01. ~</br>2021.12. | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의제조공정 최적화 기술개발 - 스마트 팩토리 모니터링 시스템 | Univ LAB.Software Engineering                                |
 | Research Activities |       2021.12.01.       | 특허 출원(SYSTEM AND METHOD FOR MEASUREMENT OF<br/>NUTRIENT INTAKE) | Univ LAB.Software Engineering                                |
 | Internship Activities |       2022.01.01. ~</br>2022.02.28.       | 스마트 IoT 조명 제어 및 센서 데이터 수집/배포 연구 보조  | 한국전자통신연구원(ETRI)                         |
-| Internal Activities |        2022.03. ~</br>2022.06.| [PROJECT::여행에 경험을 선사하다 GOGO 플랫폼](https://github.com/Hoouoo/Freetraveler)| Dongeui University |
+| Internal Activities |        2022.03. ~</br>2022.06.| [PROJECT::여행에 경험을 선사하다 'GOGO' 플랫폼](https://github.com/Hoouoo/Freetraveler)| Dongeui University |
 
 
 ## 📈 Analysis
