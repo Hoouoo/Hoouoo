@@ -13,7 +13,7 @@
 
 ## 📆 Experience
 
-|        Type         |          Date           |                           Content                           | Organizatio                                                  |
+|        Type         |          Date           |                           Content                           | Organization                                                  |
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
 | External Activities | 2019.09. ~</br>2020.05. |  DND 2기: PROJECT : 번개보다 빠른 중고매칭 서비스 - 장마당   | [DND](https://dnd.ac/)                                       |
 | Research Activities |       2021.02.17.      | 특허 출원(BODY TEMPERATURE MONITORING SYSTEM AND<br/>METHOD) | Univ LAB.Software Engineering                                |
