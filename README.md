@@ -6,7 +6,7 @@
 </h1>
 <h3 align ="center"> Towards the top </h3>
 <p align ="center"> 사회에 이바지하는 서비스를 제공하는 백엔드 엔지니어를 목표로 하고 있습니다.</p>
-<p align ="center"> 혼자가 아닌 협업 중심 경험과 끈기와 열정으로 현재 기술을 딛고 더 나아가 발전하는, </br>개발에 진심을 다하는 백엔드 엔지니어가 되겠습니다. </p>
+<p align ="center"> 혼자가 아닌 협업 중심 경험과 끈기와 열정으로, </br>적용한 기술에 대해 왜 사용했는지 설명할 수 있는 백엔드 엔지니어가 되겠습니다. </p>
 <h4 align = "center"> Junior Developers in Republic of Korea</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
 <hr>
