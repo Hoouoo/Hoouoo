@@ -50,6 +50,8 @@
 
 ### Backend & Skills
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![SpringBootJPA](https://img.shields.io/badge/SpringBootJPA-6DB33F?style=flat-square&logo=SpringBootJPA&logoColor=white)
+![Mybatis](https://img.shields.io/badge/Mybatis-4169E1?style=flat-square&logo=Mybatis&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
