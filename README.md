@@ -5,8 +5,9 @@
   </a>
 </h1>
 <h3 align ="center"> Towards the top </h3>
-<p align ="center"> 사회에 이바지하는 서비스를 제공하는 백엔드 엔지니어를 목표로 하고 있습니다.</p>
-<p align ="center"> 혼자가 아닌 협업 중심 경험과 끈기와 열정으로, </br>적용한 기술에 대해 왜 사용했는지 설명할 수 있는 백엔드 엔지니어가 되겠습니다. </p>
+<p align ="center"> 개발 시 사용자의 Needs가 뭔지, 시나리오에 따라 적합한 기술을 적용하고자 고민하고 노력하고 있습니다.</p>
+<p align ="center"> 위를 뒷받침 하기 위해 지속적으로 소통하며, 서로의 개발 가치관을 공유합니다.</p>
+<p align ="center"> 적용한 기술에 대해  왜 사용했는 지 설명할 수 있는 백엔드 엔지니어가 되겠습니다. </p>
 <h4 align = "center"> Junior Developers in Republic of Korea</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
 <hr>
@@ -51,6 +52,8 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![SQLServer](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-BD1C2B?style=flat-square&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
@@ -58,12 +61,13 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 
 
-### Tools
+<!--
 ![Slack](https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![svn](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white) -->
 
 
 
