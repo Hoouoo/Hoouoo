@@ -40,6 +40,7 @@
   </div>
 </div>
 
+<!--
 
 <h2 align="center">✔ Languages & Frameworks & Tools & Abilities & Study ✔</h2>  
 
@@ -62,7 +63,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
-
+-->
 
 <!--
 ![Slack](https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -71,7 +72,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white) -->
-
 
 
 <!--|Type|Date|Contents|Organization|
