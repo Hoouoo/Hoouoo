@@ -1,9 +1,10 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PARK%20SUNO%20HO&fontSize=90&animation=twinkling&fontColor=c9d1d9)--> 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src = "https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=I'm+Park+Sungho+%F0%9F%91%8B;">
+    <img src = "https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=I'm+Park+Sungho">
   </a>
 </h1>
+<!-- 손흔들기 +%F0%9F%91%8B; -->
 <!--<h3 align ="center"> Towards the top </h3> -->
 <p align ="center"> 개발 시 사용자의 Needs가 뭔지,</p>
 <p align ="center"> 시나리오에 따라 적합한 기술을 적용하고자 고민하고 노력하고 있습니다.</p>
