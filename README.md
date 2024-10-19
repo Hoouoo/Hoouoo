@@ -7,8 +7,8 @@
 <!-- 손흔들기 +%F0%9F%91%8B; -->
 <!--<h3 align ="center"> Towards the top </h3> -->
 <p align ="center"> 개발 시 사용자의 Needs가 뭔지,</p>
-<p align ="center"> 시나리오에 따라 적합한 기술을 적용하고자 고민하고 노력하고 있습니다.</p>
-<p align ="center"> 위를 뒷받침 하기 위해 지속적으로 소통하며, 서로의 개발 가치관을 공유합니다.</p>
+<!--<p align ="center"> 시나리오에 따라 적합한 기술을 적용하고자 고민하고 노력하고 있습니다.</p>
+<p align ="center"> 위를 뒷받침 하기 위해 지속적으로 소통하며, 서로의 개발 가치관을 공유합니다.</p>-->
 <p align ="center"> 적용한 기술에 대해  왜 사용했는 지 설명할 수 있는 백엔드 엔지니어가 되겠습니다. </p>
 <h4 align = "center"> Junior Developers in Republic of Korea</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HOOUOO&label=PROFILE+VIEWS" alt="HOOUOO"> 
